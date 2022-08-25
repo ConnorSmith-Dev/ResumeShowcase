@@ -22,7 +22,6 @@
 <h2> :books: References</h2>
 <ul>
   <li><p></p>
-      <p></p>
   </li>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
